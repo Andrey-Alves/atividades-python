@@ -1,5 +1,5 @@
 # My activities in python
 
 List of exercises:
-  - Hello word;
+  - Games For Mega Sena;
   
